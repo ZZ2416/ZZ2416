@@ -8,7 +8,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=zhangsan&show_icons=true&theme=radical)
 
-
-## 🔗 联系我
-
-[<img src="https://simpleicons.org/icons/github.svg" width="20">](https://github.com/ZZ2416) 
+https://github-readme-stats.vercel.app/api?username=Somoa
