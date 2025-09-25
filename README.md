@@ -8,9 +8,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=zhangsan&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangsan&layout=compact&theme=radical)
-
----
 
 ## 🔗 联系我
 
