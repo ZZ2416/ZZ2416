@@ -8,4 +8,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=zhangsan&show_icons=true&theme=radical)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=Here-is+Somoa;Go+%7C+Python+%7C+TypeScript;Building+Cloud+%26+AI+Apps)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=Here+is+Somoa;Go+%7C+Python+%7C+TypeScript;Building+Cloud+%26+AI+Apps)
