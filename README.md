@@ -18,4 +18,4 @@
 
 
 ## 📚 技术博客
-📝 我的技术笔记：[https://zhangsan.tech](https://blog.zzdfwo.ink)
+📝 我的技术笔记：[https://Somoablog](https://blog.zzdfwo.ink)
