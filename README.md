@@ -15,3 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-green?logo=python)
 ![Docker](https://img.shields.io/badge/Docker-24.0-blue?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.27-red?logo=kubernetes)
+
+
+## 📚 技术博客
+📝 我的技术笔记：[https://zhangsan.tech](https://blog.zzdfwo.ink)
