@@ -19,3 +19,6 @@
 
 ## 📚 技术博客
 📝 我的技术笔记：[https://Somoablog](https://blog.zzdfwo.ink)
+
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzhangsan&label=Profile%20Views&countColor=%23263759)
