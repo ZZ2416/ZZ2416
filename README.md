@@ -12,5 +12,3 @@
 ## 🔗 联系我
 
 [<img src="https://simpleicons.org/icons/github.svg" width="20">](https://github.com/ZZ2416) 
-[<img src="https://simpleicons.org/icons/linkedin.svg" width="20">](https://blog.zzdfwo.ink)
-[<img src="https://simpleicons.org/icons/email.svg" width="20">](mailto:zzdfwo@outlook.com)
