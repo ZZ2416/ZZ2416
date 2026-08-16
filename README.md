@@ -24,7 +24,7 @@
 
 **Backend Engineer · AI/ML Enthusiast · Lifelong Learner**
 
-`Go` · `Java` · `Python` · `Node.js` — building intelligent, reliable systems.
+`Go` — building intelligent, reliable systems.
 
 <br>
 
@@ -45,7 +45,8 @@ $ whoami
 $ cat ~/now
 > 🔨 Building  : zhihuDP — LLM 驱动的股票分析 agent (Go)
 > 📚 Learning  : LLM 应用编排 (CloudWeGo Eino) · Agent 设计模式
-> 🧗 Beyond    : 攀岩 · 健身 · 跑步 · 理财
+> 🧗 Beyond    : 攀岩 · 健身 · 跑步 · 理财 · 经营学习
 
 $ echo $MOTTO
-> 少即是多，稳定压倒一切。Clean code, reliable systems.
+> 迷茫和软弱是相连接的。
+> 人类的赞歌是勇气的赞歌。
