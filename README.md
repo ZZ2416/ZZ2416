@@ -45,7 +45,7 @@ $ whoami
 $ cat ~/now
 > 🔨 Building  : zhihuDP — LLM 驱动的股票分析 agent (Go)
 > 📚 Learning  : LLM 应用编排 (CloudWeGo Eino) · Agent 设计模式
-> 🧗 Beyond    : 攀岩 · 健身 · 跑步 · 理财 · 经营学习
+> 🧗 Beyond    : 攀岩 · 健身 · 跑步 · 理财 · 经营学习 · 商业思维
 
 $ echo $MOTTO
 > 迷茫和软弱是相连接的。
